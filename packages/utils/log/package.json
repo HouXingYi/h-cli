@@ -1,0 +1,34 @@
+{
+  "name": "@h-cli/log",
+  "version": "1.2.4",
+  "description": "g-cli log",
+  "keywords": [
+    "log"
+  ],
+  "author": "houxingyi <1026043046@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@1.117.67.249:223/root/h-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "npmlog": "^4.1.2"
+  },
+  "gitHead": "dd6501a8998c478e5487cfcfbce862b9f7aa543c"
+}
